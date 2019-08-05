@@ -36,12 +36,6 @@
             "GGGGino\\WordBundle\\": ""
         }
     },
-    
-    "extra": {
-        "branch-alias": {
-            "dev-master": "2.0.x-dev"
-        }
-    }, 
     "config": {
         "bin-dir": "bin"
     }
